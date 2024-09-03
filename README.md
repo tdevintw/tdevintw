@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Java Projects](https://github.com/topics/java)
 
-- 👨‍💻 All of my projects are available at [yassiraitelghari.dev](yassiraitelghari.dev)
+- 👨‍💻 All of my projects are available at [yassiraitelghari.dev](https://yassiraitelghari.dev)
 
 - 📝 I regularly write articles on [Tech , Ideas , Goals , Ambition ,Habits](Tech , Ideas , Goals , Ambition ,Habits)
 
