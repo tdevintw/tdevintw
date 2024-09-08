@@ -29,6 +29,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,github,html,idea,java,js,laravel,mysql,php,postman,react,tailwind,vscode," height="100" alt="html5 logo"  />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,github,html,idea,java,js,laravel,mysql,php,postman,react,tailwind,vscode,postgres" height="100" alt="html5 logo"  />
 
 </p>
