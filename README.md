@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [GreenPulse](https://github.com/tdevintw/greenpulserefactored)
 
 - 🌱 I’m currently learning **Java**
+  
+- 📔 I’m currently reading **Thing Recursively**
 
 - 👯 I’m looking to collaborate on [Java Projects](https://github.com/topics/java)
 
