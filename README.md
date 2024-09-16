@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YASSIR AIT EL GHARI</h1>
 <h3 align="center">A passionate full stack developer from MOROCCO</h3>
 
-- 🔭 I’m currently working on [GreenPulse](https://github.com/tdevintw/greenpulserefactored)
+- 🔭 I’m currently working on [Costify](https://github.com/tdevintw/costify)
 
 - 🌱 I’m currently learning **Java**
   
