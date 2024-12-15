@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
   
-- 📔 I’m currently reading **Thinking Recursively**
+- 📔 I’m currently reading **OCP JAVA SE 17**
 
 - 👯 I’m looking to collaborate on [Java Projects](https://github.com/topics/java)
 
